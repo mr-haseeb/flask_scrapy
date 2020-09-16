@@ -4,7 +4,7 @@ from scrapy import Request
 import gspread
 from scrapy.crawler import CrawlerProcess
 from scrapy.utils.project import get_project_settings
-import socket
+
 
 
 s = get_project_settings()
