@@ -1,4 +1,3 @@
 Scrapy
-Python
 Flask
 Werkzeug
