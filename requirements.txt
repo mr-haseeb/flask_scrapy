@@ -1,4 +1,4 @@
-Scrapy=2.1.0
+Scrapy
 Python=3.8.2
 Flask=1.1.2
 Werkzeug=1.0.1
