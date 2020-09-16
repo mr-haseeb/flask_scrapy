@@ -81,7 +81,7 @@ class KompassSpider(scrapy.Spider):
 
     
 
-    sh.append_row([company,company_activity,address,code,company_url,year,siren,workforce,managers],2)
+    sh.append_row([company, company_activity, address, code, company_url, year, siren, workforce, managers],2)
 
 
 
