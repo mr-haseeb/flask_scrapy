@@ -12,7 +12,7 @@ app = Flask(__name__)
 
 @app.route('/', methods=['GET', 'POST'])
 def root():
-    if request.method == 'GET':
+    if request.method == 'GET' or 'POST':
         return render_template('home.html')
 
 @app.route('/results')
